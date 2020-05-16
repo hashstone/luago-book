@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/hashstone/luago-book/code/go/ch02/binchunk"
+	"github.com/hashstone/luago-book/code/go/binchunk"
 )
 
 func list(f *binchunk.Prototype) {
